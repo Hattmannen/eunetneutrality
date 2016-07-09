@@ -38,6 +38,19 @@
   minute_plural:    Minuten
   widget_ending:    Zeit, um das Internet in Europa zu retten.
   widget_link_text: Rettet die Netzneutralität
+  
+- code:             sv
+  lang:             Swedish
+  widget_beginning: Vi har
+  day_singular:     dag
+  day_plural:       dagar
+  hour_singular:    timme
+  hour_plural:      timmar
+  and:              och
+  minute_singular:  minut
+  minute_plural:    minuter
+  widget_ending:    på oss att rädda Europas Internet.
+  widget_link_text: Rädda Nätneutraliteten!
 
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # !! TRANSLATION NEEDED BELOW !!
